@@ -8,6 +8,8 @@
 
 A clean, framework-agnostic PHP SDK for the **Virtual POS / fiscal cash register API** (ОФД / Andoz, `vkassa-api.ofd.tj`) — device status, shifts, receipts & corrections, fiscal documents, X/FN/cash reports, cash in/out and universal counters — with first-class **Laravel** support.
 
+> 📖 **Full method reference** (every method, parameters & example responses): [`docs/REFERENCE.md`](docs/REFERENCE.md) · [Русский](docs/REFERENCE.ru.md)
+
 ## ✨ Features
 
 - 🧾 **Receipts & corrections** with a fluent builder (auto `receiptSum`, auto VAT)
